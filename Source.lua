@@ -1,4 +1,4 @@
-shared.LoaderTitle = "Tik Tok Duybayacc";
+shared.LoaderTitle = "Folow TikTok";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
@@ -308,12 +308,12 @@ v5:Destroy();
 --         pcall(v422);
 --     end
 -- end);
-local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/obfalchx/testfluent/refs/heads/main/FluentTrau"))();
+local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))();
 local v15 = v14:CreateWindow({
     Title = "Duy ADR",
     SubTitle = "",
     TabWidth = 160,
-    Theme = "https://raw.githubusercontent.com/Duyandroid/Duyadr/refs/heads/main/bright.png",
+    Theme = "Red",
     Acrylic = false,
     Size = UDim2.fromOffset(500, 320),
     MinimizeKey = Enum.KeyCode.End
