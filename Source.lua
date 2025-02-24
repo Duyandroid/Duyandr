@@ -1,4 +1,4 @@
-shared.LoaderTitle = "Tik Tok: Duybayacc";
+shared.LoaderTitle = "Tik Tok Duybayacc";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
@@ -313,7 +313,7 @@ local v15 = v14:CreateWindow({
     Title = "Duy ADR",
     SubTitle = "",
     TabWidth = 160,
-    Theme = "Dark",
+    Theme = "https://raw.githubusercontent.com/Duyandroid/Duyadr/refs/heads/main/bright.png",
     Acrylic = false,
     Size = UDim2.fromOffset(500, 320),
     MinimizeKey = Enum.KeyCode.End
